@@ -1,0 +1,1086 @@
+{
+  "users": [
+    {
+      "id": "4bf8",
+      "username": "ram",
+      "email": "ram1@gmail.com",
+      "password": "ram1234",
+      "cpassword": "ram1234",
+      "address": "bujwucccccdddd",
+      "pincode": "384002",
+      "phone": "9123456780",
+      "isAdmin": false,
+      "createdAt": "2025-03-22T17:59:23.381Z",
+      "resetToken": "",
+      "mobile": "9876543211",
+      "address1": "Mehsana",
+      "city": "Mehsana",
+      "edited": "2025-04-07T19:44:49.272Z"
+    },
+    {
+      "id": "1asd",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "isAdmin": true
+    },
+    {
+      "id": "899a",
+      "username": "ram ",
+      "email": "ram@gmail.com",
+      "password": "ram123",
+      "cpassword": "ram123",
+      "address": "ram nagar socity",
+      "pincode": "384002",
+      "phone": "9989796959",
+      "isAdmin": false,
+      "createdAt": "2025-03-22T18:06:22.096Z",
+      "avatar": "http://res.cloudinary.com/harshita1/image/upload/v1743857274/3rdfebuser/fubja6yaiizgqrchzcfy.webp",
+      "mobile": "9876543210",
+      "city": "unjha",
+      "edited": "2025-04-05T12:48:34.017Z",
+      "resetToken": "ce8c335h4wo"
+    },
+    {
+      "id": "cee5",
+      "username": "dharmi ",
+      "email": "dharmi@gmail.com",
+      "password": "dharmi123",
+      "cpassword": "dharmi123",
+      "address": "dwcduinnnnnnnnnnnnnn",
+      "pincode": "345678",
+      "phone": "9876879087",
+      "isAdmin": false,
+      "createdAt": "2025-03-27T16:37:54.083Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "4262",
+      "name": "White Kanjivaram Silk Saree  ",
+      "brand": "",
+      "category": "Saree",
+      "price": 20000,
+      "stock": 2,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743618369/RentTrendproduct/zywfxgdbaji3cqobuyzp.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743618404/RentTrendproduct/cyofezmbmfspcf9sovq0.webp"
+      ],
+      "desc": "Add a touch of luxury to your wardrobe with our Vista White Kanjivaram Silk Saree! ",
+      "createdAt": "2025-04-02T18:27:43.681Z",
+      "editedAt": "2025-04-06T10:04:02.662Z"
+    },
+    {
+      "id": "305f",
+      "name": " Silk  Indian Wedding Saree",
+      "brand": "",
+      "category": "Saree",
+      "price": 25000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743618647/RentTrendproduct/qufflvzcqlqjv75spct1.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743618701/RentTrendproduct/fbr6yiadd5cosmisbeuz.webp"
+      ],
+      "desc": "Blouse : Banglori Silk\nWork : Heavy Embroidery Coding With Fancy Sequence Work ( As Shown In Image )\nSize : 0 . 8 M",
+      "createdAt": "2025-04-02T18:32:07.337Z",
+      "editedAt": "2025-04-06T10:06:02.204Z"
+    },
+    {
+      "id": "52d0",
+      "name": "Bella Signora Designer Saree",
+      "brand": "",
+      "category": "Saree",
+      "price": 15000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743619078/RentTrendproduct/jgugmzyuorz8aplshskz.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743619123/RentTrendproduct/zptel6ochrxlcaexozat.webp"
+      ],
+      "desc": "SAREE FABRIC : HEAVY GEORGETTE\nSAREE WORK : FANCY SEQUENCE WORK WITH HEAVY LACE BORDER\nSAREE LENGTH : 5.50MTR*",
+      "createdAt": "2025-04-02T18:39:00.270Z",
+      "editedAt": "2025-04-06T10:07:23.546Z"
+    },
+    {
+      "id": "b097",
+      "name": "Marathi Silk Nauvari Saree",
+      "brand": "",
+      "category": "Saree",
+      "price": 10000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743619391/RentTrendproduct/sgtlkimlkrqcz5fmtjyt.jpg"
+      ],
+      "desc": "photo of Marathi Silk Nauvari Saree",
+      "createdAt": "2025-04-02T18:43:36.463Z"
+    },
+    {
+      "id": "399b",
+      "name": "Latest Fashion For Women And Girls",
+      "brand": "",
+      "category": "Saree",
+      "price": 2000,
+      "stock": 4,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743619634/RentTrendproduct/pmzwht6v9sc2y1ogifvu.webp"
+      ],
+      "desc": "Material compositionGeorgette Chiffon\nWeave typePlain",
+      "createdAt": "2025-04-02T18:49:07.790Z"
+    },
+    {
+      "id": "e6a3",
+      "name": "A Trending Choice for Contemporary Women",
+      "brand": "",
+      "category": "Saree",
+      "price": 5000,
+      "stock": 5,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743619869/RentTrendproduct/okm0yijem1bferhhmgsf.webp"
+      ],
+      "desc": "Apart from their simplicity, pastel Kanjivaram sarees also offer versatility. They can be paired with different shades of blouses, jewelry, and accessories to create a variety of looks.",
+      "createdAt": "2025-04-02T18:51:39.724Z"
+    },
+    {
+      "id": "d0bb",
+      "name": "Net Lehenga Choli In Teal Blue Colour",
+      "brand": "",
+      "category": "Lehengas",
+      "price": 2500,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743620170/RentTrendproduct/m2xea0p7yyoyt7a2cv8u.webp"
+      ],
+      "desc": " Dupatta | Unstitched Blouse | Semi Stitched Lehenga",
+      "createdAt": "2025-04-02T18:56:37.927Z",
+      "editedAt": "2025-04-06T10:02:51.524Z"
+    },
+    {
+      "id": "eebb",
+      "name": "Marwari Silk Bridal Lehenga ",
+      "brand": "",
+      "category": "Lehengas",
+      "price": 30000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743620422/RentTrendproduct/nceivh5o925pbyvtpaza.webp"
+      ],
+      "desc": "A Silk Tale in Royal Hues with A Marwari Majesty...",
+      "createdAt": "2025-04-02T19:00:27.408Z",
+      "editedAt": "2025-04-06T10:02:16.227Z"
+    },
+    {
+      "id": "d79d",
+      "name": "Navy Blue Banarasi Readymade Lehenga",
+      "brand": "",
+      "category": "Lehengas",
+      "price": 37000,
+      "stock": 2,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743620526/RentTrendproduct/ryonr1ojexrnzdleadcq.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743620574/RentTrendproduct/bicyyfgz9yu1s4oxyd5o.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743620615/RentTrendproduct/teslay2egxil62wnjnkx.webp"
+      ],
+      "desc": " Navy Blue Readymade Lehenga in Banarasi fabric\n The Lehenga is embellished with Swaroski embroidery",
+      "createdAt": "2025-04-02T19:04:00.303Z",
+      "editedAt": "2025-04-06T10:03:15.323Z"
+    },
+    {
+      "id": "7686",
+      "name": "Rust Orange Party Wear Lehenga Choli",
+      "brand": "",
+      "category": "Lehengas",
+      "price": 3299,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743620782/RentTrendproduct/clpefoheaq9w6atrdzh1.jpg"
+      ],
+      "desc": "Designer Party Wear Lehenga\n\nLehenga Fabric:- Art Silk\n\nCholi Fabric:- Art Silk",
+      "createdAt": "2025-04-02T19:07:18.249Z"
+    },
+    {
+      "id": "1f99",
+      "name": "Pista Green Wedding Lehenga Choli",
+      "brand": "",
+      "category": "Lehengas",
+      "price": 2500,
+      "stock": 5,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743620894/RentTrendproduct/l7z4ontdutgt5q8a2tcx.jpg"
+      ],
+      "desc": "Shine like a gorgeous diva dressing up in this beautiful light pista green satin silk lehenga choli   ",
+      "createdAt": "2025-04-02T19:09:07.711Z",
+      "editedAt": "2025-04-06T10:10:35.062Z"
+    },
+    {
+      "id": "fbc4",
+      "name": "Printed kurti and pant set",
+      "brand": "",
+      "category": "Kurtis",
+      "price": 600,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743621097/RentTrendproduct/ahr1wldhhunefxpeajfn.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743621111/RentTrendproduct/ygjfrfouvw8e864b6jda.webp"
+      ],
+      "desc": "cotten pant-kurtis\n",
+      "createdAt": "2025-04-02T19:12:12.668Z",
+      "editedAt": "2025-04-06T10:14:57.762Z"
+    },
+    {
+      "id": "293c",
+      "name": "Stylish and Comfortable Kurti",
+      "brand": "",
+      "category": "Kurtis",
+      "price": 2800,
+      "stock": 4,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743621234/RentTrendproduct/pcwotpnyjsfyp0opfczk.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743621264/RentTrendproduct/fferjtp16o6ylekyw3ee.webp"
+      ],
+      "desc": "Color : Green\nFabric : Heavy Rayon",
+      "createdAt": "2025-04-02T19:14:36.083Z",
+      "editedAt": "2025-04-06T10:15:37.009Z"
+    },
+    {
+      "id": "265d",
+      "name": "heavy kurtis for marriage",
+      "brand": "",
+      "category": "Kurtis",
+      "price": 7000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743621447/RentTrendproduct/m2dopipkpqvqwdgofkwq.jpg"
+      ],
+      "desc": "heavy kurtis for marriage-2025",
+      "createdAt": "2025-04-02T19:17:37.002Z"
+    },
+    {
+      "id": "edb2",
+      "name": "designer kurtis for wedding",
+      "brand": "",
+      "category": "Kurtis",
+      "price": 900,
+      "stock": 6,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743621600/RentTrendproduct/mky5et1tijzbrw6kjcfy.webp"
+      ],
+      "desc": "Latest Designer Kurtis for Wedding (2024) Stylish Marriage Designs",
+      "createdAt": "2025-04-02T19:20:53.195Z"
+    },
+    {
+      "id": "7069",
+      "name": "jivandhara Attractive Kurtis",
+      "brand": "",
+      "category": "Kurtis",
+      "price": 4000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743621734/RentTrendproduct/ps6s07u1vhp6xfkleook.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743621830/RentTrendproduct/qdazklltaqu1jt1cn9dp.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743621875/RentTrendproduct/cdlw2fhe873yvpx8o3wu.webp"
+      ],
+      "desc": "Name : Jivandhara Attractive Kurtis\n\nFabric : Rayon\n\nSleeve Length : Sleeveless",
+      "createdAt": "2025-04-02T19:22:59.608Z",
+      "editedAt": "2025-04-02T19:26:00.482Z"
+    },
+    {
+      "id": "d65f",
+      "name": "Latest Lehenga Designs for women",
+      "brand": "",
+      "category": "Lehengas",
+      "price": 7000,
+      "stock": 2,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743622031/RentTrendproduct/ykekywplaqwrzwznjfom.webp"
+      ],
+      "desc": "Best new lehengas 2025",
+      "createdAt": "2025-04-02T19:27:19.705Z",
+      "editedAt": "2025-04-06T10:13:46.789Z"
+    },
+    {
+      "id": "8d1d",
+      "name": "Beautiful kurti with bottom and dupatta.",
+      "brand": "",
+      "category": "Bottoms",
+      "price": 4500,
+      "stock": 4,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743622367/RentTrendproduct/ztpeluv4oqssl55nctuo.webp"
+      ],
+      "desc": "Fabric: Cotton Sleeve Length: Three-Quarter Sleeves Pattern",
+      "createdAt": "2025-04-02T19:33:19.864Z"
+    },
+    {
+      "id": "2243",
+      "name": "Festive Kurti With Bottom and Dupatta",
+      "brand": "",
+      "category": "Bottoms",
+      "price": 4000,
+      "stock": 2,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743622524/RentTrendproduct/xosheqhnbh3nrqxeov2s.jpg",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743622559/RentTrendproduct/xg9yqknfkptlezgnl5oe.jpg"
+      ],
+      "desc": "Gulnaaz Vol 1 Festive Kurti With Bottom and Dupatta Set by Radhika Lifestyle",
+      "createdAt": "2025-04-02T19:36:03.788Z",
+      "editedAt": "2025-04-06T10:17:16.627Z"
+    },
+    {
+      "id": "8583",
+      "name": "EXCLUSIVE FESTIVE BOTTOMS KURTI SET",
+      "brand": "",
+      "category": "Bottoms",
+      "price": 11000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743622616/RentTrendproduct/qck4uxezzdkspym6hxjp.jpg",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743622694/RentTrendproduct/gvpjqtb11rztifj9pt6q.jpg",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743622727/RentTrendproduct/zjnq5c9et6m0pfldn6bp.jpg",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743622753/RentTrendproduct/kaxlxcrawaosvvnosmvc.jpg"
+      ],
+      "desc": "TOP FABRIC - VISCOSE BY NYLON 80/20 .\n\nBOTTOM FABRIC - VISCOSE BY NYLON 80/20.\n",
+      "createdAt": "2025-04-02T19:39:25.496Z",
+      "editedAt": "2025-04-06T10:18:02.322Z"
+    },
+    {
+      "id": "3aba",
+      "name": "Jaipur Printed  Cotton Kurtis",
+      "brand": "",
+      "category": "Bottoms",
+      "price": 2400,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743622994/RentTrendproduct/jpcpm01s79whu8yysqyf.avif"
+      ],
+      "desc": "WOMEN KURTI SET; COTTON TOP BOTTOM DUPATTA DRESS;KURTA PANT WITH DUPPATA SET",
+      "createdAt": "2025-04-02T19:44:37.113Z",
+      "editedAt": "2025-04-06T10:20:04.827Z"
+    },
+    {
+      "id": "6818",
+      "name": "The Ellee Hoop Earrings",
+      "brand": "",
+      "category": "Accessories",
+      "price": 700,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743623695/RentTrendproduct/vch6q4m0jtlhl16fejqg.webp"
+      ],
+      "desc": "Diamond And White Pearl HD Earrings In 18Kt White Gold (3.528 gram) with Diamonds (0.5400 Ct)",
+      "createdAt": "2025-04-02T19:50:39.519Z",
+      "editedAt": "2025-04-02T19:54:58.155Z"
+    },
+    {
+      "id": "cc96",
+      "name": "New fashion jewellery pink bahubali",
+      "brand": "",
+      "category": "Accessories",
+      "price": 300,
+      "stock": 0,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743623815/RentTrendproduct/k6wd9xyps2mkhomp8oov.webp"
+      ],
+      "desc": "New fashion jewellery for girl and women fashion pink bahubali\n",
+      "createdAt": "2025-04-02T19:56:59.433Z",
+      "editedAt": "2025-04-06T10:21:10.894Z"
+    },
+    {
+      "id": "9696",
+      "name": " 1 Necklace with Matching of earrings ",
+      "brand": "",
+      "category": "Accessories",
+      "price": 120,
+      "stock": 7,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743623912/RentTrendproduct/jpftg8s5wppsqrmvxolz.webp"
+      ],
+      "desc": "Pack of 1 Necklace Set with Matching pair of earrings for Women and Girls",
+      "createdAt": "2025-04-02T19:58:46.270Z",
+      "editedAt": "2025-04-06T10:22:46.713Z"
+    },
+    {
+      "id": "65cd",
+      "name": "Twinkling Fancy Maangtika",
+      "brand": "",
+      "category": "Accessories",
+      "price": 3000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743624540/RentTrendproduct/eoywgvagoxr3gspbsa1i.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743624563/RentTrendproduct/ravxebntkayzmn82lpcw.webp"
+      ],
+      "desc": "Name : Twinkling Fancy Maangtika\n\nBase Metal : Brass\n\nColor : Silver",
+      "createdAt": "2025-04-02T20:09:36.813Z"
+    },
+    {
+      "id": "0213",
+      "name": "Gold Plated Chatai chain with Pendant",
+      "brand": "",
+      "category": "Accessories",
+      "price": 550,
+      "stock": 3,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743624886/RentTrendproduct/oali44bq9aohtrgbyife.webp"
+      ],
+      "desc": "C-51 Daily Wear Gold Plated Chatai chain with Pendant",
+      "createdAt": "2025-04-02T20:14:49.125Z",
+      "editedAt": "2025-04-06T10:23:22.617Z"
+    },
+    {
+      "id": "538b",
+      "name": "Premium Silk Anarkali Dress",
+      "brand": "",
+      "category": "AnarkaliDress",
+      "price": 3000,
+      "stock": 4,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743672613/RentTrendproduct/euxdoit56cdmxbzdrpyj.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743672618/RentTrendproduct/iyhkdj9ghrljknf3mzaa.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743672635/RentTrendproduct/kkmgvku1hwhpb1l4lpaj.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743672637/RentTrendproduct/n5xzxtriqckhvioadkdx.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743672663/RentTrendproduct/usr5xmtyksztrfyhpqsw.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743672669/RentTrendproduct/rzay5rqhfsqesdihedlw.webp"
+      ],
+      "desc": "Premium Silk Anarkali Dress",
+      "createdAt": "2025-04-03T09:31:20.258Z"
+    },
+    {
+      "id": "bec4",
+      "name": "Purple Anarkali Dress In Silk ",
+      "brand": "",
+      "category": "AnarkaliDress",
+      "price": 5500,
+      "stock": 2,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743672782/RentTrendproduct/ndcd6bzerxi0p3zh56qh.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743672847/RentTrendproduct/oi68oqr3wyswjgqvv3wp.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743672856/RentTrendproduct/ipcf1efxf3pvwhhujgum.webp"
+      ],
+      "desc": "Color: Purple\nTop Fabric: Art Silk\nBottom/Inner Fabric: Santool\nDupatta Fabric: Art Silk",
+      "createdAt": "2025-04-03T09:34:56.635Z",
+      "editedAt": "2025-04-06T10:23:56.357Z"
+    },
+    {
+      "id": "0d47",
+      "name": "Full Heavy Work Anaekali Suit",
+      "brand": "",
+      "category": "AnarkaliDress",
+      "price": 12000,
+      "stock": 4,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743673450/RentTrendproduct/mqomprj3pep2c6oxz6bq.avif"
+      ],
+      "desc": "Anaekali Suit",
+      "createdAt": "2025-04-03T09:38:38.634Z",
+      "editedAt": "2025-04-06T10:33:02.661Z"
+    },
+    {
+      "id": "e151",
+      "name": "Off White Bhawani Couture Anarkali Suit",
+      "brand": "",
+      "category": "AnarkaliDress",
+      "price": 4700,
+      "stock": 2,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743673317/RentTrendproduct/d6z9cgxu8xuxsbl8yvbg.avif"
+      ],
+      "desc": "Material : Kurta- Khadi Muslin, Garara- Khadi Muslin, Dupatta- Poly Net ( Kurta- 100% Khadi Muslin, Garara- 100% Khadi Muslin, Dupatta- 100% Polyester )",
+      "createdAt": "2025-04-03T09:42:36.481Z"
+    },
+    {
+      "id": "ca76",
+      "name": "Semi-Stitched Anarkali Dress",
+      "brand": "",
+      "category": "AnarkaliDress",
+      "price": 2100,
+      "stock": 5,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743673608/RentTrendproduct/vjnc6ah7s8nkune8f4pz.avif",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743673635/RentTrendproduct/wxygrwggtbt890ip2d6c.avif"
+      ],
+      "desc": "Dupatta length: 2.2 m\nPackage contains: 1 topwear fabric, 1 bottom wear fabric, 1 dupatta",
+      "createdAt": "2025-04-03T09:48:01.107Z",
+      "editedAt": "2025-04-06T10:34:18.194Z"
+    },
+    {
+      "id": "6996",
+      "name": "Glimmering Blue Color Work Anarkali Gown",
+      "brand": "",
+      "category": "AnarkaliDress",
+      "price": 2099,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743673850/RentTrendproduct/piq2xm2gp8b2mnwrkzkg.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743673916/RentTrendproduct/nux26onmegl4qrgqqyma.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743673939/RentTrendproduct/rz9neemwoaejddqj0wun.webp"
+      ],
+      "desc": "Gown Fabric\tFaux Georgette\nGown Work\tThread  With 9mm Sequence Work",
+      "createdAt": "2025-04-03T09:52:37.330Z",
+      "editedAt": "2025-04-06T10:33:55.026Z"
+    },
+    {
+      "id": "4c45",
+      "name": "Odette Yellow Indo Western ",
+      "brand": "",
+      "category": "IndoWestern",
+      "price": 50000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743846779/RentTrendproduct/l21evmjn0j4k2p31lmhq.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743846875/RentTrendproduct/ccyaw3zeaxmsvso5mepp.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743846909/RentTrendproduct/zxzbqlkcztmnqrgnf97m.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743847144/RentTrendproduct/yf2vfkwwvsyberhx8pwl.webp"
+      ],
+      "desc": "Best Materials Western dress",
+      "createdAt": "2025-04-05T09:59:06.318Z",
+      "supplierId": "a756",
+      "supplier": "krupa",
+      "editedAt": "2025-04-06T10:35:25.278Z"
+    },
+    {
+      "id": "fadd",
+      "name": "Olive Criss- Cross Indo Western Dress.",
+      "brand": "",
+      "category": "IndoWestern",
+      "price": 70000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743847713/RentTrendproduct/i84vinyl6eokhnqlvrej.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743847818/RentTrendproduct/abpdpuiyubrcc5mnmcbp.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743847842/RentTrendproduct/e3zfvvbjng0g7pbrapkd.webp"
+      ],
+      "desc": "Fabric: Georgette with Sequin Work\n\nWash Care: Dry Clean Only",
+      "createdAt": "2025-04-05T10:11:16.481Z",
+      "supplierId": "a756",
+      "supplier": "krupa",
+      "editedAt": "2025-04-05T13:41:01.021Z"
+    },
+    {
+      "id": "7e3d",
+      "name": "Beige Chiffon Modern Indo Western Dress",
+      "brand": "",
+      "category": "IndoWestern",
+      "price": 45000,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743847955/RentTrendproduct/kqiqbppbrferroslvuf5.jpg",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743848223/RentTrendproduct/j150fvij2dhqyv56fuxw.jpg",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743848245/RentTrendproduct/zkrpawif7diabtmmx6f0.jpg"
+      ],
+      "desc": "Exclusive Readymade Beige Chiffon Satin Modern Indo Western Dress. It is embellished with Hand Work.",
+      "createdAt": "2025-04-05T10:15:14.362Z",
+      "supplierId": "a756",
+      "supplier": "krupa",
+      "editedAt": "2025-04-06T10:35:57.442Z"
+    },
+    {
+      "id": "3e76",
+      "name": "Multi Color Printed Indo-Western Set",
+      "brand": "",
+      "category": "IndoWestern",
+      "price": 5000,
+      "stock": 2,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743848337/RentTrendproduct/h1jllw6tm5jyl9enap6o.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743848501/RentTrendproduct/ekqvisdy1wfsnfy25zyg.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743848544/RentTrendproduct/keejxjpuuslspfa3qiov.webp"
+      ],
+      "desc": "A slight difference in color from the visible product image is possible.",
+      "createdAt": "2025-04-05T10:23:00.078Z",
+      "supplierId": "a756",
+      "supplier": "krupa",
+      "editedAt": "2025-04-06T10:36:29.225Z"
+    },
+    {
+      "id": "0e6d",
+      "name": "Hot Pink Classic Indo Western Dress",
+      "brand": "",
+      "category": "IndoWestern",
+      "price": 38000,
+      "stock": 3,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743848746/RentTrendproduct/ffmppzdryb7esvj0wnnc.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743848777/RentTrendproduct/zfs4qgxcztuzzjqbthpn.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743848800/RentTrendproduct/phyneiz1pixeivkc1bew.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743848827/RentTrendproduct/s8k2ntszbcclw5k57vdr.webp"
+      ],
+      "desc": "Georgette skirt ( full stitch)\nGeorgette Koti with sequins , zari & paper work ( full stitch)",
+      "createdAt": "2025-04-05T10:27:52.130Z",
+      "supplierId": "a756",
+      "supplier": "krupa"
+    },
+    {
+      "id": "21db",
+      "name": "Chic Fusion: Indo-Western Dresses.",
+      "brand": "",
+      "category": "IndoWestern",
+      "price": 4100,
+      "stock": 1,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743857243/RentTrendproduct/ajpxss4onchfh4lkaqsa.webp"
+      ],
+      "desc": "Chic Fusion: Embracing Style with Female Indo-Western Dresses.",
+      "createdAt": "2025-04-05T12:48:17.291Z",
+      "supplierId": "a756",
+      "supplier": "krupa"
+    },
+    {
+      "id": "a8da",
+      "name": "Bella Signora Designer Saree",
+      "brand": "",
+      "category": "Saree",
+      "price": 15000,
+      "stock": 2,
+      "images": [
+        "http://res.cloudinary.com/krupa27/image/upload/v1743857406/RentTrendproduct/rccgze9qxxz2ivh1vmlq.webp",
+        "http://res.cloudinary.com/krupa27/image/upload/v1743857427/RentTrendproduct/agyiopqqrdwroef7xttu.webp"
+      ],
+      "desc": "SAREE FABRIC : HEAVY GEORGETTE\nSAREE WORK : FANCY SEQUENCE WORK WITH HEAVY LACE BORDER",
+      "createdAt": "2025-04-05T12:50:57.923Z",
+      "supplierId": "a756",
+      "supplier": "krupa",
+      "editedAt": "2025-04-06T10:09:19.040Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "8c78",
+      "name": "qwertyuiol",
+      "desc": "qaedyhm,jhgfdsfv",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1742991794/RentTrendproject/poa4emiowmoe6eec76yv.webp",
+      "createdAt": "2025-03-26T12:23:20.301Z"
+    },
+    {
+      "id": "59c3",
+      "name": "New Arivals",
+      "desc": "best New Arivals",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1743593382/RentTrendproject/e0f2v2wvcfj5rqaapnpz.avif",
+      "createdAt": "2025-04-02T11:30:02.295Z"
+    },
+    {
+      "id": "10b2",
+      "name": "Kurti Pant",
+      "desc": "Casual Wear Cotton Ladies Off White Kurti Pant",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1743594188/RentTrendproject/pdrkucgraqejolikqo4b.webp",
+      "createdAt": "2025-04-02T11:43:39.527Z"
+    },
+    {
+      "id": "5504",
+      "name": "Saree",
+      "desc": "Vista White Kanjivaram Silk Saree\n",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1743618271/RentTrendproject/heuhqb1gvlemxfm507pa.webp",
+      "createdAt": "2025-04-02T18:24:51.324Z"
+    },
+    {
+      "id": "6bb2",
+      "name": "Lehengas",
+      "desc": "Net Embroidery Lehenga Choli In Teal Blue Colour",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1743620104/RentTrendproject/r5nynpms3nj3vugunc2h.webp",
+      "createdAt": "2025-04-02T18:55:26.159Z"
+    },
+    {
+      "id": "3ab4",
+      "name": "Kurtis",
+      "desc": "pant-Kurtis",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1743621015/RentTrendproject/jgq7s20jac0hau7ag6bq.webp",
+      "createdAt": "2025-04-02T19:10:34.105Z"
+    },
+    {
+      "id": "0f9a",
+      "name": "Bottoms",
+      "desc": "Beautiful kurti with bottom and dupatta.",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1743622312/RentTrendproject/zqadjofckf9vx5id8amu.webp",
+      "createdAt": "2025-04-02T19:32:19.190Z"
+    },
+    {
+      "id": "48a9",
+      "name": "Accessories",
+      "desc": "The Ellee Hoop Earrings",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1743623354/RentTrendproject/wmjlqbrp9eywhddmatzh.jpg",
+      "createdAt": "2025-04-02T19:49:29.784Z"
+    },
+    {
+      "id": "b7c4",
+      "name": "AnarkaliDress",
+      "desc": "AnarkaliDress ",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1743672551/RentTrendproject/eqvhoijzslnaana4fayh.webp",
+      "createdAt": "2025-04-03T09:29:17.193Z"
+    },
+    {
+      "id": "b644",
+      "name": "IndoWestern",
+      "desc": "Yellow Indo Western Dress",
+      "image": "http://res.cloudinary.com/krupa27/image/upload/v1743846659/RentTrendproject/ylzs7jukuvoth8iioidf.webp",
+      "createdAt": "2025-04-05T09:51:54.472Z"
+    }
+  ],
+  "supplier": [
+    {
+      "id": "a756",
+      "storeName": "vdcvjvcahc",
+      "supplierName": "krupa",
+      "email": "krupa2301@gmail.com",
+      "password": "krupa123",
+      "phone": "9123456780",
+      "storeAddress": "bxjsjsjsjooooooooooooooooo",
+      "pincode": "384002",
+      "isSupplier": true,
+      "createdAt": "2025-03-24T10:30:48.347Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "9203",
+      "cartItems": [
+        {
+          "id": "62ca",
+          "name": "Lavender Tissue Silk Anarkali",
+          "brand": "",
+          "category": "Lehenga",
+          "price": 3000,
+          "stock": 7,
+          "images": [
+            "http://res.cloudinary.com/krupa27/image/upload/v1743109657/RentTrendproduct/yleh440wlbc9xhjoeze0.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743109665/RentTrendproduct/kvonricie1k5j0aascat.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743109666/RentTrendproduct/jmns0vhitvih0udaxpwx.webp"
+          ],
+          "desc": "Black Georgette Blouse With Resham, Stone & Sequence Work, Matching Lehenga With Same Work And Net Dupatta",
+          "createdAt": "2025-03-27T21:09:36.853Z",
+          "supplierId": "a756",
+          "supplier": "krupa",
+          "BookingDate": "2025-04-12",
+          "returnDate": "2025-04-23",
+          "totalPrice": 33000,
+          "qty": 1
+        }
+      ],
+      "total": 3000,
+      "username": "ram",
+      "email": "ram1@gmail.com",
+      "paymentMethod": "cod",
+      "orderStatus": "shipped",
+      "shippingAddress": {
+        "name": "Dhrumil Patel",
+        "address1": "Idar",
+        "city": "Jadar",
+        "state": "Gujarat",
+        "country": "India",
+        "pincode": "383110",
+        "mobile": "12345678"
+      },
+      "orderDate": "4/5/2025",
+      "orderTime": "11:47:24 AM",
+      "createdAt": "2025-04-05T06:17:24.543Z",
+      "editedAt": "2025-04-05T06:32:49.520Z"
+    },
+    {
+      "id": "4d67",
+      "cartItems": [
+        {
+          "id": "f966",
+          "name": "Black Georgette Lehenga Set",
+          "brand": "",
+          "category": "Lehenga",
+          "price": 5000,
+          "stock": 10,
+          "images": [
+            "http://res.cloudinary.com/krupa27/image/upload/v1743107698/RentTrendproduct/ocnghqdy7isas0v2oorh.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743107718/RentTrendproduct/i5ifnuh6jvufrpqtsyu3.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743107723/RentTrendproduct/oyzcpxkg4tqhhzijarph.webp"
+          ],
+          "desc": "Black Georgette Blouse With Resham, Stone & Sequence Work, Matching Lehenga With Same Work And Net Dupatta\n",
+          "createdAt": "2025-03-27T20:37:01.187Z",
+          "BookingDate": "2025-04-11",
+          "returnDate": "2025-04-23",
+          "totalPrice": 60000,
+          "qty": 1
+        }
+      ],
+      "total": 5000,
+      "username": "ram",
+      "email": "ram1@gmail.com",
+      "paymentMethod": "cod",
+      "orderStatus": "placed",
+      "shippingAddress": {
+        "name": "Dhrumil Patel",
+        "address1": "Idar",
+        "city": "Jadar",
+        "state": "Gujarat",
+        "country": "India",
+        "pincode": "383110",
+        "mobile": "12345678"
+      },
+      "orderDate": "4/5/2025",
+      "orderTime": "12:00:03 PM",
+      "createdAt": "2025-04-05T06:30:03.220Z"
+    },
+    {
+      "id": "b637",
+      "cartItems": [
+        {
+          "id": "4c45",
+          "name": "Odette Yellow Indo Western ",
+          "brand": "",
+          "category": "IndoWestern",
+          "price": 50000,
+          "stock": 2,
+          "images": [
+            "http://res.cloudinary.com/krupa27/image/upload/v1743846779/RentTrendproduct/l21evmjn0j4k2p31lmhq.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743846875/RentTrendproduct/ccyaw3zeaxmsvso5mepp.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743846909/RentTrendproduct/zxzbqlkcztmnqrgnf97m.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743847144/RentTrendproduct/yf2vfkwwvsyberhx8pwl.webp"
+          ],
+          "desc": "Best Materials Western dress",
+          "createdAt": "2025-04-05T09:59:06.318Z",
+          "supplierId": "a756",
+          "supplier": "krupa",
+          "editedAt": "2025-04-06T10:35:25.278Z",
+          "BookingDate": "2025-04-08",
+          "returnDate": "2025-04-13",
+          "totalPrice": 250000,
+          "qty": 1
+        }
+      ],
+      "total": 50000,
+      "username": "ram",
+      "email": "ram1@gmail.com",
+      "paymentMethod": "cod",
+      "orderStatus": "placed",
+      "shippingAddress": {
+        "name": "uigui",
+        "mobile": "fgiufg",
+        "address1": "fyifi",
+        "address2": "iyf",
+        "city": "ff",
+        "state": "f7",
+        "country": "igtiu",
+        "pincode": "556657"
+      },
+      "orderDate": "06/04/2025",
+      "orderTime": "16:17:04",
+      "createdAt": "2025-04-06T10:47:04.546Z"
+    },
+    {
+      "id": "6ab8",
+      "cartItems": [
+        {
+          "id": "fadd",
+          "name": "Olive Criss- Cross Indo Western Dress.",
+          "brand": "",
+          "category": "IndoWestern",
+          "price": 70000,
+          "stock": 2,
+          "images": [
+            "http://res.cloudinary.com/krupa27/image/upload/v1743847713/RentTrendproduct/i84vinyl6eokhnqlvrej.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743847818/RentTrendproduct/abpdpuiyubrcc5mnmcbp.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743847842/RentTrendproduct/e3zfvvbjng0g7pbrapkd.webp"
+          ],
+          "desc": "Fabric: Georgette with Sequin Work\n\nWash Care: Dry Clean Only",
+          "createdAt": "2025-04-05T10:11:16.481Z",
+          "supplierId": "a756",
+          "supplier": "krupa",
+          "editedAt": "2025-04-05T13:41:01.021Z",
+          "BookingDate": "2025-04-08",
+          "returnDate": "2025-04-12",
+          "totalPrice": 280000,
+          "qty": 1
+        }
+      ],
+      "total": 70000,
+      "username": "ram",
+      "email": "ram1@gmail.com",
+      "paymentMethod": "cod",
+      "orderStatus": "placed",
+      "shippingAddress": {
+        "name": "liyiff",
+        "mobile": "fyufuf",
+        "address1": "fyuf",
+        "address2": "yufyulf",
+        "city": "uyfyuf",
+        "state": "fyyul",
+        "country": "fyffylf",
+        "pincode": "55778"
+      },
+      "orderDate": "06/04/2025",
+      "orderTime": "17:16:11",
+      "createdAt": "2025-04-06T11:46:11.106Z"
+    },
+    {
+      "id": "4c13",
+      "cartItems": [
+        {
+          "id": "52d0",
+          "name": "Bella Signora Designer Saree",
+          "brand": "",
+          "category": "Saree",
+          "price": 15000,
+          "stock": 2,
+          "images": [
+            "http://res.cloudinary.com/krupa27/image/upload/v1743619078/RentTrendproduct/jgugmzyuorz8aplshskz.webp",
+            "http://res.cloudinary.com/krupa27/image/upload/v1743619123/RentTrendproduct/zptel6ochrxlcaexozat.webp"
+          ],
+          "desc": "SAREE FABRIC : HEAVY GEORGETTE\nSAREE WORK : FANCY SEQUENCE WORK WITH HEAVY LACE BORDER\nSAREE LENGTH : 5.50MTR*",
+          "createdAt": "2025-04-02T18:39:00.270Z",
+          "editedAt": "2025-04-06T10:07:23.546Z",
+          "BookingDate": "2025-04-09",
+          "returnDate": "2025-04-16",
+          "totalPrice": 105000,
+          "qty": 1
+        }
+      ],
+      "total": 15000,
+      "username": "ram",
+      "email": "ram1@gmail.com",
+      "paymentMethod": "cod",
+      "orderStatus": "placed",
+      "shippingAddress": {
+        "name": "uigui",
+        "mobile": "iugi",
+        "address1": "yif",
+        "address2": "fiyf",
+        "city": "yif",
+        "state": "iff",
+        "country": "uigi",
+        "pincode": "5555555555"
+      },
+      "orderDate": "07/04/2025",
+      "orderTime": "16:19:44",
+      "createdAt": "2025-04-07T10:49:44.507Z"
+    },
+    {
+      "id": "047c",
+      "cartItems": [
+        {
+          "id": "cc96",
+          "name": "New fashion jewellery pink bahubali",
+          "brand": "",
+          "category": "Accessories",
+          "price": 300,
+          "stock": 2,
+          "images": [
+            "http://res.cloudinary.com/krupa27/image/upload/v1743623815/RentTrendproduct/k6wd9xyps2mkhomp8oov.webp"
+          ],
+          "desc": "New fashion jewellery for girl and women fashion pink bahubali\n",
+          "createdAt": "2025-04-02T19:56:59.433Z",
+          "editedAt": "2025-04-06T10:21:10.894Z",
+          "BookingDate": "2025-04-09",
+          "returnDate": "2025-04-14",
+          "totalPrice": 1500,
+          "qty": 1
+        }
+      ],
+      "total": 300,
+      "username": "ram",
+      "email": "ram1@gmail.com",
+      "paymentMethod": "cod",
+      "orderStatus": "placed",
+      "shippingAddress": {
+        "name": "ram",
+        "mobile": "9876543211",
+        "address1": "radhanpur Road",
+        "address2": "modhera ",
+        "city": "mehsana",
+        "state": "gujarat",
+        "country": "india",
+        "pincode": "384002"
+      },
+      "orderDate": "08/04/2025",
+      "orderTime": "00:56:13",
+      "createdAt": "2025-04-07T19:26:13.510Z"
+    },
+    {
+      "id": "36df",
+      "cartItems": [
+        {
+          "id": "cc96",
+          "name": "New fashion jewellery pink bahubali",
+          "brand": "",
+          "category": "Accessories",
+          "price": 300,
+          "stock": 1,
+          "images": [
+            "http://res.cloudinary.com/krupa27/image/upload/v1743623815/RentTrendproduct/k6wd9xyps2mkhomp8oov.webp"
+          ],
+          "desc": "New fashion jewellery for girl and women fashion pink bahubali\n",
+          "createdAt": "2025-04-02T19:56:59.433Z",
+          "editedAt": "2025-04-06T10:21:10.894Z",
+          "BookingDate": "2025-04-09",
+          "returnDate": "2025-04-14",
+          "totalPrice": 1500,
+          "qty": 1
+        }
+      ],
+      "total": 300,
+      "username": "ram",
+      "email": "ram1@gmail.com",
+      "paymentMethod": "cod",
+      "orderStatus": "placed",
+      "shippingAddress": {
+        "name": "ram",
+        "mobile": "9876543211",
+        "address1": "mehsana",
+        "address2": "mehsana",
+        "city": "mehsana",
+        "state": "gujarat",
+        "country": "india",
+        "pincode": "384002"
+      },
+      "orderDate": "08/04/2025",
+      "orderTime": "01:00:18",
+      "createdAt": "2025-04-07T19:30:18.060Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "d34a",
+      "orderId": "d500",
+      "productId": "2468",
+      "productName": "sadi",
+      "username": "ram",
+      "rating": 5,
+      "comment": "good",
+      "date": "2025-03-31T09:55:48.866Z"
+    },
+    {
+      "id": "273a",
+      "orderId": "8bde",
+      "productId": "07ae",
+      "productName": "cbsdjcbd",
+      "username": "ram",
+      "rating": 5,
+      "comment": "good",
+      "date": "2025-03-31T10:33:51.081Z"
+    },
+    {
+      "id": "fe41",
+      "orderId": "7c8d",
+      "productId": "07ae",
+      "productName": "cbsdjcbd",
+      "username": "ram ",
+      "rating": 3.5,
+      "comment": "ggggggg",
+      "date": "2025-03-31T11:51:53.059Z"
+    },
+    {
+      "id": "93be",
+      "orderId": "f498",
+      "productId": "f966",
+      "productName": "Black Georgette Lehenga Set",
+      "username": "ram",
+      "rating": 5,
+      "comment": "good product",
+      "date": "2025-04-02T20:15:57.758Z"
+    },
+    {
+      "id": "eca3",
+      "orderId": "6ab8",
+      "productId": "fadd",
+      "productName": "Olive Criss- Cross Indo Western Dress.",
+      "username": "ram",
+      "rating": 1.5,
+      "comment": "bad",
+      "date": "2025-04-06T11:46:28.697Z",
+      "supplierId": "a756",
+      "supplierName": "krupa"
+    }
+  ],
+  "coupons": []
+}
